@@ -1,0 +1,31 @@
+com/example/painteasy/DataBindingTriggerClass.java
+ com.example.painteasy.DataBindingTriggerClass
+com/example/painteasy/DataBinderMapperImpl.java
+ com.example.painteasy.DataBinderMapperImpl
+ com.example.painteasy.DataBinderMapperImpl$InnerBrLookup
+ com.example.painteasy.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/painteasy/databinding/ActivityMainBindingImpl.java
+ com.example.painteasy.databinding.ActivityMainBindingImpl
+com/example/painteasy/databinding/FragmentCanvasBinding.java
+ com.example.painteasy.databinding.FragmentCanvasBinding
+com/example/painteasy/BR.java
+ com.example.painteasy.BR
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/painteasy/generated/callback/OnClickListener.java
+ com.example.painteasy.generated.callback.OnClickListener
+ com.example.painteasy.generated.callback.OnClickListener$Listener
+com/example/painteasy/databinding/FragmentAboutBindingImpl.java
+ com.example.painteasy.databinding.FragmentAboutBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/painteasy/databinding/FragmentAboutBinding.java
+ com.example.painteasy.databinding.FragmentAboutBinding
+com/example/painteasy/databinding/FragmentCanvasBindingImpl.java
+ com.example.painteasy.databinding.FragmentCanvasBindingImpl
+com/example/painteasy/databinding/ActivityMainBinding.java
+ com.example.painteasy.databinding.ActivityMainBinding
+com/example/painteasy/BuildConfig.java
+ com.example.painteasy.BuildConfig
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
