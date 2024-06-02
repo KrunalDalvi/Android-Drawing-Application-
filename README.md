@@ -1,6 +1,5 @@
 # Android-Drawing-Application
-Surveillance plays a significant role in today's society, whether it comes to securing your business or your private life. This application offers a wide range of capabilities to its customers, including motion detection, visitor monitoring, and real-time video recording. It can aid in the prevention of crimes, loss prevention, and safety monitoring. Additionally, it utilizes computer vision, a subfield of Artificial Intelligence, to enhance safety within your private or business premises and high-risk areas.
-
+The Android Drawing Application is a versatile and user-friendly platform designed for artists of all ages to draw, paint, and color with ease. Users can create and customize their artwork, import images into their drawings, and save or share their masterpieces effortlessly. Additionally, the application supports exporting drawings in various formats such as JPG and PNG, ensuring compatibility and convenience for all creative needs. Whether for fun, learning, or professional use, this application provides a robust set of tools to inspire and facilitate artistic expression.
 
 # Functionalities
 1) User can use brush.
